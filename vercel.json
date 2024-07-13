@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://landers.10web.me/$1"
+ }
+  ]
+}
